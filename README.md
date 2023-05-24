@@ -8,3 +8,6 @@ I will start by the Italian main division: Serie A
 
 
 -  The code is taken by the repositery: https://github.com/parth1902/Scrape-FBref-data, in particular from the colab: https://colab.research.google.com/drive/1PoHtZWcy8WaU1hnWmL7eCVUbxzci3-fr#scrollTo=bvMefm5dmcWs
+
+## To-Do
+- [ ] try the fix the error with https://github.com/parth1902/Scrape-FBref-data/issues/4
